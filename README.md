@@ -1,6 +1,11 @@
 ## Hello! I'm Seiji.
 
-<img width="500" height="280" src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzcyOTkzMDEsIm5iZiI6MTc3NzI5OTAwMSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDI3VDE0MTAwMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBlODgwNjEzOTRlODE4MWY2ZjU1MGJlYjVlZmJlNjNkZDhhNGMzNmM3NjA4YTA5YzdhY2E2MGQyY2M5ODg2OWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.HhjrdCci9waQD-lnibnN5uHnAYw3Gy8KAdhoWZ757f0" />
+<div style="display: flex; align-items: center;">
+  <img width="500" height="280" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"/>
+
+  <img width="224" height="192" src="https://github.com/user-attachments/assets/4d19be4f-5d92-4531-afc6-61e377f25da6" />
+
+</div>
 
 ## Developing Skills
 
