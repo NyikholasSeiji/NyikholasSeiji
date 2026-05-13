@@ -2,10 +2,16 @@
 
 <div style="display: flex; align-items: center;">
   <img width="500" height="280" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"/>
-
   <img width="224" height="192" src="https://github.com/user-attachments/assets/4d19be4f-5d92-4531-afc6-61e377f25da6" />
-
 </div>
+
+---
+### 🧠 About Me
+- ☕ Focused on **Java**
+- 🚀 I want to become a back-end developer
+- 🎓 Business Administration Technician
+- ⚙️ Building back-end systems and troubleshooting
+---
 
 ## Developing Skills
 
@@ -13,7 +19,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
 
 ## Contacts
 <div> 
