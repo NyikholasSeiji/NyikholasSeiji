@@ -48,7 +48,7 @@
 - **Proposta** — o usuário responde um questionário sobre sua pele e o sistema recomenda produtos específicos com base nas respostas, criando uma experiência parecida com uma consultoria digital de skincare.
 - **Identidade visual** — minimalista, clean, sofisticada, com foco em luxo discreto.
 - **Front-end** — React, Vite e Tailwind CSS.
-- **Back-end** — Next.js, autenticação via JWT, Docker, Prisma e MySQL.
+- **Back-end** — Java, Spring Boot, Spring Web, Spring Data MongoDB, Spring Validation, Lombok e MongoDB.
 
 ---
 
