@@ -36,7 +36,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=NyikholasSeiji&hide_border=true&background=1A1330&ring=8A63D2&fire=B389F0&currStreakNum=E4D9FF&sideNums=B389F0&currStreakLabel=E4D9FF&sideLabels=9C89C7&dates=8B7BAE&stroke=1A1330" alt="GitHub Streak"/>
+  <img height="165" src="https://streak-stats.demolab.com/?user=NyikholasSeiji&hide_border=true&background=1A1330&ring=8A63D2&fire=B389F0&currStreakNum=E4D9FF&sideNums=B389F0&currStreakLabel=E4D9FF&sideLabels=9C89C7&dates=8B7BAE&stroke=1A1330" alt="GitHub Streak"/>
 </p>
 
 ---
