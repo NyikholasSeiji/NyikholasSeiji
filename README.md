@@ -12,7 +12,7 @@
 
 ### 💻 Sobre mim
 
-- 🎓 Técnico em Administração pela **ETEC**
+- 🎓 Técnico em Administração pela **ETEC** e cursando ADS pela **FATEC**
 - 🎯 Focado em construir **sistemas com performance e que resolvam problemas reais**
 - 🌱 Sempre estudando novas tecnologias do ecossistema JS/TS
 
